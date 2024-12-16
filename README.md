@@ -65,7 +65,7 @@ accordion-pro/
 
 ## Screenshots 🖼️
 
-![Accordion Pro Screenshot](https://via.placeholder.com/800x400?text=Accordion+Pro)
+![Screenshot 2024-12-16 215145](https://github.com/user-attachments/assets/050a4f69-1b0a-49d4-81f7-af8985a1dc01)
 
 ## License 📜
 
